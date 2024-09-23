@@ -1,304 +1,106 @@
-0,i,.001440107,unsigned long long
-1,i,.001260328,unsigned long long
-2,i,.001238214,unsigned long long
-3,i,.001229584,unsigned long long
-4,i,.001437287,unsigned long long
-5,i,.001311635,unsigned long long
-6,i,.001308115,unsigned long long
-7,i,.001240573,unsigned long long
-8,i,.001203783,unsigned long long
-9,i,.001462278,unsigned long long
-10,i,.001209393,unsigned long long
-11,i,.001249893,unsigned long long
-12,i,.001345675,unsigned long long
-13,i,.001231973,unsigned long long
-14,i,.001215363,unsigned long long
-15,i,.001303830,unsigned long long
-16,i,.001180822,unsigned long long
-17,i,.001184563,unsigned long long
-18,i,.001278684,unsigned long long
-19,i,.001195562,unsigned long long
-20,i,.001274949,unsigned long long
-21,i,.001196563,unsigned long long
-22,i,.001233663,unsigned long long
-23,i,.001214583,unsigned long long
-24,i,.001283844,unsigned long long
-25,i,.001247824,unsigned long long
-26,i,.001193182,unsigned long long
-27,i,.001298014,unsigned long long
-28,i,.001185663,unsigned long long
-29,i,.001276949,unsigned long long
-30,i,.001221293,unsigned long long
-31,i,.001273954,unsigned long long
-32,i,.001390046,unsigned long long
-33,i,.001178072,unsigned long long
-34,i,.001242033,unsigned long long
-35,i,.001249613,unsigned long long
-36,i,.001214003,unsigned long long
-37,i,.001332336,unsigned long long
-38,i,.001343366,unsigned long long
-39,i,.001265543,unsigned long long
-40,i,.001225863,unsigned long long
-41,i,.001320425,unsigned long long
-42,i,.001197923,unsigned long long
-43,i,.001261114,unsigned long long
-44,i,.001295634,unsigned long long
-45,i,.001257934,unsigned long long
-46,i,.001233163,unsigned long long
-47,i,.001249123,unsigned long long
-48,i,.001248313,unsigned long long
-49,i,.001195052,unsigned long long
-50,i,.001214683,unsigned long long
-0,r,.001259474,unsigned long long
-1,r,.001257313,unsigned long long
-2,r,.001324415,unsigned long long
-3,r,.001208153,unsigned long long
-4,r,.001270624,unsigned long long
-5,r,.001227023,unsigned long long
-6,r,.001273144,unsigned long long
-7,r,.001325600,unsigned long long
-8,r,.001214483,unsigned long long
-9,r,.001251773,unsigned long long
-10,r,.001243964,unsigned long long
-11,r,.001248789,unsigned long long
-12,r,.001376666,unsigned long long
-13,r,.001235483,unsigned long long
-14,r,.001282838,unsigned long long
-15,r,.001211883,unsigned long long
-16,r,.001211513,unsigned long long
-17,r,.001269574,unsigned long long
-18,r,.001528854,unsigned long long
-19,r,.001254454,unsigned long long
-20,r,.001394456,unsigned long long
-21,r,.001315165,unsigned long long
-22,r,.001225653,unsigned long long
-23,r,.001261989,unsigned long long
-24,r,.001364496,unsigned long long
-25,r,.001243034,unsigned long long
-26,r,.001308909,unsigned long long
-27,r,.001243339,unsigned long long
-28,r,.001283210,unsigned long long
-29,r,.001438657,unsigned long long
-30,r,.001248033,unsigned long long
-31,r,.001348766,unsigned long long
-32,r,.001423487,unsigned long long
-33,r,.001266733,unsigned long long
-34,r,.001423527,unsigned long long
-35,r,.001301125,unsigned long long
-36,r,.001284524,unsigned long long
-37,r,.001234484,unsigned long long
-38,r,.001265154,unsigned long long
-39,r,.001257663,unsigned long long
-40,r,.001258884,unsigned long long
-41,r,.001249543,unsigned long long
-42,r,.001212453,unsigned long long
-43,r,.001229263,unsigned long long
-44,r,.001228333,unsigned long long
-45,r,.001287669,unsigned long long
-46,r,.001510673,unsigned long long
-47,r,.001214343,unsigned long long
-48,r,.001254984,unsigned long long
-49,r,.001329205,unsigned long long
-50,r,.001242154,unsigned long long
-0,i,.001315495,unsigned long long
-1,i,.001232158,unsigned long long
-2,i,.001202697,unsigned long long
-3,i,.001216983,unsigned long long
-4,i,.001212344,unsigned long long
-5,i,.001238064,unsigned long long
-6,i,.001155061,unsigned long long
-7,i,.001196902,unsigned long long
-8,i,.001204153,unsigned long long
-9,i,.001296011,unsigned long long
-10,i,.001180667,unsigned long long
-11,i,.001170692,unsigned long long
-12,i,.001204243,unsigned long long
-13,i,.001238823,unsigned long long
-14,i,.001236023,unsigned long long
-15,i,.001216803,unsigned long long
-16,i,.001202163,unsigned long long
-17,i,.001167542,unsigned long long
-18,i,.001285994,unsigned long long
-19,i,.001186922,unsigned long long
-20,i,.001172511,unsigned long long
-21,i,.001279184,unsigned long long
-22,i,.001214633,unsigned long long
-23,i,.001371816,unsigned long long
-24,i,.001272194,unsigned long long
-25,i,.001210972,unsigned long long
-26,i,.001177473,unsigned long long
-27,i,.001229943,unsigned long long
-28,i,.001192193,unsigned long long
-29,i,.001287785,unsigned long long
-30,i,.001267969,unsigned long long
-31,i,.001226703,unsigned long long
-32,i,.001331825,unsigned long long
-33,i,.001206982,unsigned long long
-34,i,.001215413,unsigned long long
-35,i,.001191302,unsigned long long
-36,i,.001220743,unsigned long long
-37,i,.001219343,unsigned long long
-38,i,.001170753,unsigned long long
-39,i,.001285665,unsigned long long
-40,i,.001179742,unsigned long long
-41,i,.001193463,unsigned long long
-42,i,.001188662,unsigned long long
-43,i,.001183622,unsigned long long
-44,i,.001396907,unsigned long long
-45,i,.001257294,unsigned long long
-46,i,.001345114,unsigned long long
-47,i,.001349120,unsigned long long
-48,i,.001184172,unsigned long long
-49,i,.001210463,unsigned long long
-50,i,.001266964,unsigned long long
-51,i,.001273145,unsigned long long
-52,i,.001185802,unsigned long long
-53,i,.001246604,unsigned long long
-54,i,.001255254,unsigned long long
-55,i,.001354915,unsigned long long
-56,i,.001223733,unsigned long long
-57,i,.001188943,unsigned long long
-58,i,.001260364,unsigned long long
-59,i,.001216743,unsigned long long
-60,i,.001247463,unsigned long long
-61,i,.001211103,unsigned long long
-62,i,.001247843,unsigned long long
-63,i,.001240933,unsigned long long
-64,i,.001258204,unsigned long long
-65,i,.001255694,unsigned long long
-66,i,.001187073,unsigned long long
-67,i,.001229303,unsigned long long
-68,i,.001190542,unsigned long long
-69,i,.001227583,unsigned long long
-70,i,.001231903,unsigned long long
-71,i,.001213413,unsigned long long
-72,i,.001316536,unsigned long long
-73,i,.001304775,unsigned long long
-74,i,.001282684,unsigned long long
-75,i,.001240083,unsigned long long
-76,i,.001247364,unsigned long long
-77,i,.001173703,unsigned long long
-78,i,.001210418,unsigned long long
-79,i,.001272244,unsigned long long
-80,i,.001183582,unsigned long long
-81,i,.001298614,unsigned long long
-82,i,.001219183,unsigned long long
-83,i,.001182852,unsigned long long
-84,i,.001210652,unsigned long long
-85,i,.001175163,unsigned long long
-86,i,.001347536,unsigned long long
-87,i,.001187252,unsigned long long
-88,i,.001264418,unsigned long long
-89,i,.001192722,unsigned long long
-90,i,.001235463,unsigned long long
-91,i,.001201993,unsigned long long
-92,i,.001186342,unsigned long long
-93,i,.001281084,unsigned long long
-94,i,.001273374,unsigned long long
-95,i,.001220298,unsigned long long
-96,i,.001294644,unsigned long long
-97,i,.001203282,unsigned long long
-98,i,.001218373,unsigned long long
-99,i,.001292925,unsigned long long
-100,i,.001224043,unsigned long long
-0,r,.001189972,unsigned long long
-1,r,.001241043,unsigned long long
-2,r,.001297849,unsigned long long
-3,r,.001202953,unsigned long long
-4,r,.001235894,unsigned long long
-5,r,.001200673,unsigned long long
-6,r,.001254744,unsigned long long
-7,r,.001256454,unsigned long long
-8,r,.001238473,unsigned long long
-9,r,.001198732,unsigned long long
-10,r,.001214793,unsigned long long
-11,r,.001303694,unsigned long long
-12,r,.001308634,unsigned long long
-13,r,.001280084,unsigned long long
-14,r,.001199193,unsigned long long
-15,r,.001330804,unsigned long long
-16,r,.001256898,unsigned long long
-17,r,.001254004,unsigned long long
-18,r,.001270764,unsigned long long
-19,r,.001203723,unsigned long long
-20,r,.001197833,unsigned long long
-21,r,.001223953,unsigned long long
-22,r,.001206433,unsigned long long
-23,r,.001223203,unsigned long long
-24,r,.001226753,unsigned long long
-25,r,.001227713,unsigned long long
-26,r,.001203542,unsigned long long
-27,r,.001279294,unsigned long long
-28,r,.001353963,unsigned long long
-29,r,.001234433,unsigned long long
-30,r,.001353026,unsigned long long
-31,r,.001216652,unsigned long long
-32,r,.001364175,unsigned long long
-33,r,.001194693,unsigned long long
-34,r,.001232783,unsigned long long
-35,r,.001259094,unsigned long long
-36,r,.001226343,unsigned long long
-37,r,.001285754,unsigned long long
-38,r,.001231003,unsigned long long
-39,r,.001270273,unsigned long long
-40,r,.001212122,unsigned long long
-41,r,.001319645,unsigned long long
-42,r,.001370676,unsigned long long
-43,r,.001263854,unsigned long long
-44,r,.001260229,unsigned long long
-45,r,.001200992,unsigned long long
-46,r,.001247973,unsigned long long
-47,r,.001203663,unsigned long long
-48,r,.001279534,unsigned long long
-49,r,.001327425,unsigned long long
-50,r,.001259723,unsigned long long
-51,r,.001221993,unsigned long long
-52,r,.001278854,unsigned long long
-53,r,.001200513,unsigned long long
-54,r,.001285454,unsigned long long
-55,r,.001213313,unsigned long long
-56,r,.001237014,unsigned long long
-57,r,.001207383,unsigned long long
-58,r,.001230503,unsigned long long
-59,r,.001250613,unsigned long long
-60,r,.001217683,unsigned long long
-61,r,.001268634,unsigned long long
-62,r,.001209673,unsigned long long
-63,r,.001296244,unsigned long long
-64,r,.001202713,unsigned long long
-65,r,.001193092,unsigned long long
-66,r,.001256508,unsigned long long
-67,r,.001241134,unsigned long long
-68,r,.001226993,unsigned long long
-69,r,.001422552,unsigned long long
-70,r,.001247494,unsigned long long
-71,r,.001234864,unsigned long long
-72,r,.001252173,unsigned long long
-73,r,.001376136,unsigned long long
-74,r,.001230423,unsigned long long
-75,r,.001316908,unsigned long long
-76,r,.001231883,unsigned long long
-77,r,.001217993,unsigned long long
-78,r,.001268114,unsigned long long
-79,r,.001211052,unsigned long long
-80,r,.001250304,unsigned long long
-81,r,.001184983,unsigned long long
-82,r,.001251253,unsigned long long
-83,r,.001326835,unsigned long long
-84,r,.001221183,unsigned long long
-85,r,.001369461,unsigned long long
-86,r,.001289174,unsigned long long
-87,r,.001294934,unsigned long long
-88,r,.001264483,unsigned long long
-89,r,.001220833,unsigned long long
-90,r,.001235623,unsigned long long
-91,r,.001317695,unsigned long long
-92,r,.001227893,unsigned long long
-93,r,.001250639,unsigned long long
-94,r,.001330609,unsigned long long
-95,r,.001214343,unsigned long long
-96,r,.001233453,unsigned long long
-97,r,.001410936,unsigned long long
-98,r,.001213763,unsigned long long
-99,r,.001272244,unsigned long long
-100,r,.001232393,unsigned long long
+Nth Value,method,real_time,user_time,sys_time
+0,i,0.000,0.000,0.000
+1,i,0.000,0.000,0.000
+2,i,0.000,0.000,0.000
+3,i,0.000,0.000,0.000
+4,i,0.000,0.000,0.000
+5,i,0.000,0.000,0.000
+6,i,0.000,0.000,0.000
+7,i,0.000,0.000,0.000
+8,i,0.000,0.000,0.000
+9,i,0.000,0.000,0.000
+10,i,0.000,0.000,0.000
+11,i,0.000,0.000,0.000
+12,i,0.000,0.000,0.000
+13,i,0.000,0.000,0.000
+14,i,0.000,0.000,0.000
+15,i,0.001,0.000,0.000
+16,i,0.000,0.000,0.000
+17,i,0.000,0.000,0.000
+18,i,0.000,0.000,0.000
+19,i,0.000,0.000,0.000
+20,i,0.001,0.001,0.000
+21,i,0.000,0.000,0.000
+22,i,0.000,0.000,0.000
+23,i,0.001,0.000,0.000
+24,i,0.000,0.000,0.000
+25,i,0.001,0.000,0.000
+26,i,0.000,0.000,0.000
+27,i,0.000,0.000,0.000
+28,i,0.000,0.000,0.000
+29,i,0.000,0.000,0.000
+30,i,0.000,0.000,0.000
+31,i,0.000,0.000,0.000
+32,i,0.000,0.000,0.000
+33,i,0.000,0.000,0.000
+34,i,0.000,0.000,0.000
+35,i,0.000,0.000,0.000
+36,i,0.000,0.000,0.000
+37,i,0.000,0.000,0.000
+38,i,0.000,0.000,0.000
+39,i,0.000,0.000,0.000
+40,i,0.000,0.000,0.000
+41,i,0.000,0.000,0.000
+42,i,0.000,0.000,0.000
+43,i,0.000,0.000,0.000
+44,i,0.000,0.000,0.000
+45,i,0.000,0.000,0.000
+46,i,0.000,0.000,0.000
+47,i,0.000,0.000,0.000
+48,i,0.000,0.000,0.000
+49,i,0.000,0.000,0.000
+50,i,0.000,0.000,0.000
+51,i,0.000,0.000,0.000
+52,i,0.000,0.000,0.000
+0,r,0.001,0.001,0.000
+1,r,0.000,0.000,0.000
+2,r,0.000,0.000,0.000
+3,r,0.000,0.000,0.000
+4,r,0.000,0.000,0.000
+5,r,0.000,0.000,0.000
+6,r,0.000,0.000,0.000
+7,r,0.000,0.000,0.000
+8,r,0.000,0.000,0.000
+9,r,0.000,0.000,0.000
+10,r,0.000,0.000,0.000
+11,r,0.000,0.000,0.000
+12,r,0.000,0.000,0.000
+13,r,0.000,0.000,0.000
+14,r,0.000,0.000,0.000
+15,r,0.000,0.001,0.000
+16,r,0.000,0.000,0.000
+17,r,0.000,0.000,0.000
+18,r,0.000,0.000,0.000
+19,r,0.000,0.000,0.000
+20,r,0.000,0.000,0.000
+21,r,0.000,0.000,0.000
+22,r,0.000,0.000,0.000
+23,r,0.001,0.000,0.000
+24,r,0.001,0.001,0.000
+25,r,0.001,0.001,0.000
+26,r,0.001,0.001,0.000
+27,r,0.001,0.001,0.000
+28,r,0.001,0.001,0.000
+29,r,0.002,0.002,0.000
+30,r,0.003,0.003,0.000
+31,r,0.004,0.004,0.000
+32,r,0.006,0.006,0.000
+33,r,0.010,0.010,0.000
+34,r,0.016,0.016,0.000
+35,r,0.026,0.026,0.000
+36,r,0.041,0.041,0.000
+37,r,0.067,0.067,0.000
+38,r,0.097,0.097,0.000
+39,r,0.144,0.144,0.000
+40,r,0.233,0.233,0.000
+41,r,0.377,0.377,0.000
+42,r,0.607,0.607,0.000
+43,r,0.986,0.986,0.000
+44,r,1.584,1.583,0.000
+45,r,2.562,2.562,0.000
+46,r,4.145,4.145,0.000
+47,r,6.721,6.721,0.000
+48,r,10.958,10.958,0.000
+49,r,17.796,17.795,0.000
+50,r,28.884,28.884,0.000
+51,r,46.214,46.214,0.000

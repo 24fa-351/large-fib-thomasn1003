@@ -1,11 +1,21 @@
+#!/bin/bash
+
+gcc fib.c -o fib
+
+echo "Nth Value,method,real_time,user_time,sys_time" > results.csv
+
 for method in i r
 do
-    for num in {0..100}  # Adjust the range as needed
+    for num in {0..51} 
     do
-        start=$(date +%s.%N)
-        ./fibonacci $num $method >> /dev/null
-        end=$(date +%s.%N)
-        duration=$(echo "$end - $start" | bc)
-        echo "$num,$method,$duration,unsigned long long" >> results.csv
+
+        ./fib $num $method > /dev/null
+
+        TIMEFORMAT='%R %U %S'
+        exec_time=$( { time ./fib $num $method > /dev/null; } 2>&1 )
+        read real_time user_time sys_time <<< $exec_time
+
+        
+        echo "$num,$method,$real_time,$user_time,$sys_time" >> results.csv
     done
 done

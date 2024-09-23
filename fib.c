@@ -45,6 +45,9 @@ int will_overflow(fib_type a, fib_type b) {
 int main(int argc, char *argv[]) {
 
     int num = atoi(argv[1]) - 1;
+    if (num < 0) {
+        num = 0;
+    }
     char method = argv[2][0];
     fib_type result;
 
